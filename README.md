@@ -11,3 +11,11 @@ I managed to attain accurancy of 96%
 4. Office admin
 
 You should use cell image to test if one is infected or not
+
+# Home Page
+
+<img src = "https://github.com/sammypeter/malaria-detection-using-machine-learning/blob/main/index.png">
+
+# Super Admin
+
+<img src = "https://github.com/sammypeter/malaria-detection-using-machine-learning/blob/main/index.png">
