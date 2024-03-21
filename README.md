@@ -18,4 +18,4 @@ You should use cell image to test if one is infected or not
 
 # Super Admin
 
-<img src = "https://github.com/sammypeter/malaria-detection-using-machine-learning/blob/main/index.png">
+<img src = "https://github.com/sammypeter/malaria-detection-using-machine-learning/blob/main/adminux.png">
